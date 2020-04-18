@@ -1,0 +1,17 @@
+{
+    "name": "cfalv/predict_tabulation",
+    "authors": [
+        {
+            "name": "Felipe Alves",
+            "email": "felipealves0891@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App" : "src\\"
+        }
+    },
+    "require": {
+
+    }
+}
